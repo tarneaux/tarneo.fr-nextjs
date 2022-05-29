@@ -1,4 +1,5 @@
 image: node
+tags: build
 
 before_script:
   - npm install
