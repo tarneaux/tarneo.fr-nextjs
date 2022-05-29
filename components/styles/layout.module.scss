@@ -1,0 +1,14 @@
+.parent {
+  font-family: monospace;
+  background-color: #1f1f1f;
+  color: #fefefe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.children {
+  width: min(65ch, 95vw);
+}
