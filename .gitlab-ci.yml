@@ -1,5 +1,4 @@
 image: node
-tags: build
 
 before_script:
   - npm install
@@ -19,3 +18,4 @@ pages:
       - public
   only:
     - master
+  tags: build
