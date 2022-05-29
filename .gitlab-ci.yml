@@ -19,3 +19,4 @@ pages:
   only:
     - master
   tags: [build]
+
