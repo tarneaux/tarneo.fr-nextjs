@@ -5,6 +5,7 @@ export default function Page404() {
     <>
       <Head>
         <title>page not found</title>
+        <meta name="description" content="page not found" />
       </Head>
       <div style={{textAlign: "center"}}>
         <h1>404</h1>
