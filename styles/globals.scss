@@ -21,6 +21,17 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
   font-weight: bold;
+  color: var(--color11);
+}
+
+b {
+  color: var(--color11);
+}
+
+.icon {
+  width: 1em;
+  height: 1em;
+  color: var(--color11);
 }
 
 a {
@@ -36,6 +47,7 @@ ul {
   li::before {
     content: '-> ';
     font-weight: bold;
+    color: var(--color13);
   }
 }
 
