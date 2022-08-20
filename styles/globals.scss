@@ -8,7 +8,7 @@ body {
   color: var(--fg-color);
   padding: 0;
   margin: 0;
-  font-family: Hasklug;
+  font-family: Hasklug, monospace;
   ::selection {
     background-color: var(--selection-background-color);
     color: var(--selection-foreground-color);
