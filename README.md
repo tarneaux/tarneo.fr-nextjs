@@ -1,2 +1,1 @@
-# [tarneo.fr](https://tarneo.fr)
-This is my website. It is automatically deployed to [tarneo.fr](https://tarneo.fr) on push.
+This was the source code for my Website. I've since moved to the Hugo static site generator and you can find the current site source code here: [tarneo/tarneo.fr](https://github.com/tarneaux/tarneo.fr).
